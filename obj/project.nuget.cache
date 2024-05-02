@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sme53nDAEAGKnwORGHYq1i03APUR+wtNq3iGX8/WSsuKvDZPwvbUrslR4wsIuF0oQt/zvDmU5+YpcuOcTeZCMw==",
+  "dgSpecHash": "2YHeWLCE+lsEiH2ui4eexQ+1EZs42c4ryHq5KLf2sMvigYGSBDcmpSARQyUAKnk1R2K149SJ7xT0nPmV4bVd3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Катя\\Documents\\AdressBook\\AdressBook.csproj",
+  "projectFilePath": "C:\\Users\\Катя\\Documents\\AdressBook — копия\\AdressBook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Катя\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Катя\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
